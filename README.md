@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--spectrum--adobedevxsc.hlx.page/
-- Live: https://main--spectrum--adobedevxsc.hlx.live/
+- Preview: Preview: https://main--simpsonspage--kmanns.aem.page/
+- Live: https://main--simpsonspage--kmanns.aem.live/
 
 ## Installation
 
